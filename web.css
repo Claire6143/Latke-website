@@ -1,0 +1,38 @@
+h3 {
+  color: brown;
+}
+body {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+
+img{
+  width: 450px; height: 400px;
+}
+.layout {
+  width: 100%;
+
+  display: flex;
+  gap: 16px;
+}
+p {
+  font-size: 30px;
+ font-family: "Times New Roman", Times, serif;
+}
+h3 {
+  font-size: 40px;
+}
+ul {
+  font-size: 40px;
+}
+body {
+  background-color: #f2e6d9;
+}
+h1 {
+  font-size: 50px;
+}
+body {
+  font-size: 30px;
+}
