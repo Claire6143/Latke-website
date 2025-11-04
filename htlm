@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Latke recipe</h1>
+    <body>Latkes are really good!</body>
+    <section class="layout">
+      <div>
+
+        <h3> What is a latke? </h3>
+  <p> A Latke is a fried potato pancake eaten on the Jewish holiday Hunukkah </p> 
+    <h3> Ingredients </h3>
+    <ul>
+      <li> 3 peeled potatoes </li>
+      <li> 1 onion </li>
+      <li> 1 large egg, beaten </li>
+      <li> 1/4 cup of matzo meal </li>
+      <li> 1/2 teaspoons salt </li>
+      <li> 1/2 teaspoon baking powder </li>
+      <li> Vegetable, peanut, or olive oil </li>
+    </ul>
+
+
+      </div>
+      <div>
+
+        <img src="https://www.wellseasonedstudio.com/wp-content/uploads/2023/10/Straining-grated-potatoes-in-cheesecloth.jpg">
+        <img src="https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fit,w_730,h_487/k%2Farchive%2F82ec2016d488f403a9504e973722ae7770f3cd86
+">
+
+      </div>
+      <div>
+
+        <img src="https://www.wellseasonedstudio.com/wp-content/uploads/2025/03/Latkes-ingredients-labeled.jpg">
+        <img src="https://hips.hearstapps.com/hmg-prod/images/vponq9kq-1607611935.jpeg?crop=0.668xw:1.00xh;0.170xw,0&resize=980:*">
+
+      </div>
+    </section>
+    <h3> Step 1 </h3>
+    <p> Grate the potatoes and onions, and then place the grated veggies over a cheesecloth and wring to extract moisture </p>
+<h3> Step 2 </h3>
+<p> put the shredded veggies in a bowl, add egg, the baking powder, salt, and matzo meal. Stir well until ingredients are combined </p>
+<h3> step 3 </h3>
+<p> In a large skillet over medium heat, add 1/8 inch layer of your oil until shimmering. Add 1/4 cup mounds of the mixture you made, and flatten with a spatula to make a pattie shape </p>
+<h3> step 4 </h3>
+<p> cook until golden brown for 4-7 minutes, flip and repeat on the other side </p>
+<h3> Serve! </h3>
+<p> transfer the latkes to a towel to drain and then serve them hot. Make sure to add either apple sauce or sour cream to dip them in! </p>
+<h3> Overview </h3>
+<ol>
+  <li> get ingredients </li>
+  <li> make the batter </li>
+  <li> fry it </li>
+  <li> serve it</li>
+  <li> eat it </li>
+</ol>
+</body>
+</html>
+  
